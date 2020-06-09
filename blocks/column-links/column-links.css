@@ -1,0 +1,17 @@
+.column-links {
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: #fff;
+  transition: opacity .3s ease;
+}
+
+
+.column-links:hover {
+
+    opacity:.5;
+
+ }
+
+
